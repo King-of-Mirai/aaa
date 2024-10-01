@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>私の初めてのHTMLページ</title>
+</head>
+<body>
+    <h1>こんにちは、世界！</h1>
+    <p>これは私の最初のHTMLページです。</p>
+    <img src="image.jpg" alt="私の写真">
+</body>
+</html>
